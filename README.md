@@ -1,1 +1,4 @@
 # surfs_up
+After using the describe function to calculate the count, max, min, mean, standard deviation, and percentiles of June and December of 2016, I found out there is not much of a difference between June and December across all stations. The temperature range is about 70-80 degrees fahrenheit for all stations. The key difference between June and December is the number of counts. For example, the count is around mid 400 in June and about mid 200 in December. Essentially, the count is half from June to December. 
+
+I recommend performing 3 additional analysis such as creating a heatmap of the area of all the stations using Google API or a bar graph of all stations to provide a visual representation using plt.hist function. Second, I recommend calculating the humidity since it is quite humid in Oahu. Lastly, I recommend calculating all of the months to provide a more significant statistical analysis and view long term goal rather than short term goal.
